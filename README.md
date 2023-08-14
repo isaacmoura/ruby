@@ -1,0 +1,2 @@
+# ruby
+ sprendendo ruby
